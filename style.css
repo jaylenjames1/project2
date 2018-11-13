@@ -1,0 +1,30 @@
+body {
+  background-color: #bfbfbf;
+}
+
+a {
+	text-align: center;
+} 
+
+a {
+  font-size:60px;
+}
+h1 {
+  font-size:20px;
+  text-align: center;
+}
+
+p {
+  font-size:40px;
+  text-align: center;
+}
+.grid {
+	display:grid;
+	grid-template-columns: 1fr 1fr;
+}
+.img1{
+	grid-column: span 1;
+}
+.img2{
+	grid-column: span 1;
+}
