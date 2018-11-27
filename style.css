@@ -2,6 +2,10 @@ body {
   background-color: #bfbfbf;
 }
 
+.background {
+	font-size: 50px;
+}
+
 a {
 	text-align: center;
 } 
@@ -28,3 +32,4 @@ p {
 .img2{
 	grid-column: span 1;
 }
+<p> 
